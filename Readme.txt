@@ -22,9 +22,9 @@ Este proyecto tiene como objetivo desarrollar un gestor de contraseñas seguro y
 * **Funcionamiento contraseña vulnerada.** Verificar si una contraseña fue vulnerada y no es segura.
 
 ## Integrantes                                                                                           
-Barraza, Thiago, DNI 46373742
-Figueroa, Facundo, DNI 40941159
-Carrón, Mercedes Ayelén, DNI 34455457
+Barraza, Thiago
+Figueroa, Facundo
+Carrón, Mercedes Ayelén
 ## 
 
 
